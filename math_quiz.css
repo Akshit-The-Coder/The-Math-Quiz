@@ -1,0 +1,14 @@
+body
+{
+    background-image: url("math_quiz_bg.png"); 
+    text-align: center;
+}
+
+.number_div1 , .number_div2
+	{
+		background: cyan;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin:15px;
+	}
